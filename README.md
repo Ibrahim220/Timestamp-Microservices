@@ -1,2 +1,2 @@
 # Timestamp-Microservices
-api to provide unix and utc version for a given date 
+api to provide unix and utc version of a given date 
